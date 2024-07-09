@@ -1,0 +1,43 @@
+{
+    "products":[
+	{
+		"id": 1,
+		"title": "Burger",
+		"price": 35,
+		"img": "",
+        "quantity":0
+	},
+	{
+		"id": 2,
+		"title": "Meat Pie",
+		"price": 35,
+		"img": "",
+        "quantity":0
+	},
+	{
+		"id": 3,
+		"title": "Shawarma",
+		"price": 30,
+		"img": "",
+        "quantity":0
+
+	},
+	{
+		"id": 4,
+		"title": "Slice cake",
+		"price": 20,
+		"img": "",
+        "quantity":1
+
+	},
+	{
+		"id": 5,
+		"title": "Donuts",
+		"price": 35,
+		"img": "",
+        "quantity":1
+
+	}
+	
+    ]
+}
